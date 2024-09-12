@@ -24,10 +24,10 @@ Este es un proyecto de API para gestionar entradas de blog y comentarios, desarr
 
 ### En donde encontrar la API
 
-La API estará disponible en http://localhost:8000/api/.
+La API esta disponible en http://localhost:8000/
 
 #### Endpoints de la API
-
+La documentación sobre el uso de la API se puede encontrar en http://localhost:8000/
 POSTS
 Listar todos los posts: GET /api/posts/
 Crear un nuevo post: POST /api/posts/
