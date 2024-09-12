@@ -28,14 +28,14 @@ La API esta disponible en http://localhost:8000/
 
 #### Endpoints de la API
 La documentación sobre el uso de la API se puede encontrar en http://localhost:8000/
-##### POSTS
+#### POSTS
 - Listar todos los posts: GET /api/posts/
 - Crear un nuevo post: POST /api/posts/
 - Obtener un post por ID: GET /api/posts/{id}/
 - Actualizar un post: PUT /api/posts/{id}/
 - Eliminar un post: DELETE /api/posts/{id}/
 
-###### COMMENTS
+#### COMMENTS
 - Listar todos los comentarios: GET /api/comments/
 - Crear un nuevo comentario: POST /api/comments/
 - Obtener un comentario por ID: GET /api/comments/{id}/
